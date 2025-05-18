@@ -1,6 +1,6 @@
 {% set python_min = "3.8" %}
 {% set name = "mocket" %}
-{% set version = "3.13.5" %}
+{% set version = "3.13.6" %}
 
 package:
   name: {{ name|lower }}
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/mocket-{{ version }}.tar.gz
-  sha256: b1cd523c106344ad7e5e11d25874ff411f177d28d3ca34db76aaebd1ff920bce
+  sha256: bdc66ca445240372036a25b190fa1f042e09c10b77cf372edf6d57b0804fbf5b
 
 build:
   noarch: python
