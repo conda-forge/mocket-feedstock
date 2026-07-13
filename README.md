@@ -3,7 +3,7 @@ About mocket-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/mocket-feedstock/blob/main/LICENSE.txt)
 
-Home: https://github.com/mindflayer/python-mocket
+Home: https://pypi.org/project/mocket
 
 Package license: BSD-3-Clause
 
