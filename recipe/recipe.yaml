@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "3.14.4"
+  version: "3.14.5"
 
 package:
   name: mocket
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/m/mocket/mocket-${{ version }}.tar.gz
-  sha256: 95f10eda050a9150cd897e13cfc0b69085c455d21498cbdd79f876fa51cf9ad0
+  sha256: 536f16e1c9c28894594db2a2af96c0ade99ecdbe6c7676c2d0b97c5e4d803edd
 
 build:
   number: 0
